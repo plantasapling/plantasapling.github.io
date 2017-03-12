@@ -1,2 +1,2 @@
-# plantasapling.github.io
-plant-a-sapling homepage
+# Plant A Sapling
+Visit http://www.plantasapling.org
